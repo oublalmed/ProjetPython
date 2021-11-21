@@ -1,0 +1,176 @@
+Classes,Country/Region,Confirmed,Active,Deaths,Recovered
+1,US,83836,81946,1209,681
+1,China,81782,4310,3291,74181
+1,Italy,80589,62013,8215,10361
+1,Spain,57786,46406,4365,7015
+1,Germany,43938,37998,267,5673
+1,France,29551,22898,1698,4955
+1,Iran,29406,16715,2234,10457
+1,United Kingdom,11812,11082,580,150
+1,Switzerland,11811,11489,191,131
+1,South Korea,9241,4966,131,4144
+1,Netherlands,7468,7027,435,6
+1,Austria,6909,6748,49,112
+1,Belgium,6235,5340,220,675
+1,Canada,4042,4004,38,0
+2,Turkey,3629,3528,75,26
+2,Portugal,3544,3441,60,43
+2,Norway,3369,3349,14,6
+2,Brazil,2985,2902,77,6
+2,Sweden,2840,2747,77,16
+2,Australia,2810,2625,13,172
+2,Israel,2693,2617,8,68
+2,Malaysia,2031,1793,23,215
+2,Denmark,2023,1932,41,50
+2,Czechia,1925,1906,9,10
+2,Ireland,1819,1795,19,5
+2,Luxembourg,1453,1438,9,6
+2,Ecuador,1403,1366,34,3
+2,Japan,1387,981,47,359
+2,Chile,1306,1280,4,22
+2,Poland,1221,1198,16,7
+2,Pakistan,1201,1171,9,21
+2,Thailand,1045,953,4,88
+2,Romania,1029,912,23,94
+2,Saudi Arabia,1012,976,3,33
+3,Finland,958,943,5,10
+3,South Africa,927,915,0,12
+3,Indonesia,893,780,78,35
+3,Greece,892,830,26,36
+3,Russia,840,799,3,38
+3,Iceland,802,718,2,82
+3,India,727,662,20,45
+3,Diamond Princess,712,105,10,597
+3,Philippines,707,634,45,28
+3,Singapore,683,509,2,172
+3,Peru,580,557,9,14
+3,Slovenia,562,546,6,10
+3,Panama,558,548,8,2
+3,Qatar,549,506,0,43
+3,Estonia,538,529,1,8
+3,Argentina,502,430,9,63
+4,Egypt,495,369,24,102
+4,Croatia,495,470,3,22
+4,Colombia,491,477,6,8
+4,Dominican Republic,488,475,10,3
+4,Mexico,475,465,6,4
+4,Bahrain,458,250,4,204
+4,Serbia,384,383,1,0
+4,Iraq,382,241,36,105
+4,Lebanon,368,339,6,23
+4,Algeria,367,313,25,29
+4,United Arab Emirates,333,279,2,52
+4,Lithuania,299,294,4,1
+4,Armenia,290,271,1,18
+4,New Zealand,283,256,0,27
+4,Morocco,275,256,11,8
+4,Bulgaria,264,253,3,8
+4,Hungary,261,223,10,28
+4,Taiwan*,252,221,2,29
+4,Latvia,244,243,0,1
+4,Costa Rica,231,227,2,2
+4,Slovakia,226,224,0,2
+4,Andorra,224,220,3,1
+4,Uruguay,217,217,0,0
+4,Jordan,212,211,0,1
+4,San Marino,208,183,21,4
+4,Kuwait,208,159,0,49
+4,North Macedonia,201,195,3,3
+4,Tunisia,197,189,6,2
+4,Ukraine,196,190,5,1
+4,Bosnia and Herzegovina,191,186,3,2
+4,Moldova,177,174,1,2
+4,Albania,174,151,6,17
+4,Vietnam,153,133,0,20
+4,Burkina Faso,152,135,7,10
+4,Cyprus,146,139,3,4
+4,Malta,134,132,0,2
+4,Ghana,132,127,4,1
+4,Azerbaijan,122,104,3,15
+4,Brunei,114,109,0,5
+4,Kazakhstan,111,108,1,2
+4,Oman,109,86,0,23
+4,Venezuela,107,92,0,15
+4,Sri Lanka,106,99,0,7
+4,Senegal,105,96,0,9
+4,Cote d'Ivoire,96,93,0,3
+4,Cambodia,96,86,0,10
+4,Afghanistan,94,88,4,2
+4,Belarus,86,57,0,29
+4,West Bank and Gaza,84,66,1,17
+4,Mauritius,81,79,2,0
+4,Georgia,79,68,0,11
+4,Uzbekistan,75,75,0,0
+4,Cameroon,75,72,1,2
+4,Kosovo,71,70,1,0
+4,Montenegro,69,68,1,0
+4,Cuba,67,64,2,1
+4,Trinidad and Tobago,65,64,1,0
+4,Nigeria,65,62,1,2
+4,Liechtenstein,56,56,0,0
+4,Honduras,52,51,1,0
+4,Congo (Kinshasa),51,48,3,0
+4,Rwanda,50,50,0,0
+4,Bangladesh,44,28,5,11
+4,Kyrgyzstan,44,44,0,0
+4,Bolivia,43,43,0,0
+4,Paraguay,41,38,3,0
+4,Monaco,33,32,0,1
+4,Kenya,31,29,1,1
+4,Jamaica,26,23,1,2
+4,Guatemala,25,20,1,4
+4,Togo,23,22,0,1
+4,Madagascar,23,23,0,0
+4,Barbados,18,18,0,0
+4,Zambia,16,16,0,0
+4,Uganda,14,14,0,0
+4,El Salvador,13,13,0,0
+4,Tanzania,13,13,0,0
+4,Maldives,13,5,0,8
+4,Ethiopia,12,12,0,0
+4,Equatorial Guinea,12,12,0,0
+4,Mongolia,11,11,0,0
+4,Djibouti,11,11,0,0
+4,Dominica,11,11,0,0
+4,Niger,10,9,1,0
+4,Bahamas,9,8,0,1
+4,Suriname,8,8,0,0
+4,Namibia,8,6,0,2
+4,Haiti,8,8,0,0
+4,Seychelles,7,7,0,0
+4,Mozambique,7,7,0,0
+4,Gabon,7,6,1,0
+4,Grenada,7,7,0,0
+4,Antigua and Barbuda,7,7,0,0
+4,Eswatini,6,6,0,0
+4,Eritrea,6,6,0,0
+4,Benin,6,6,0,0
+4,Laos,6,6,0,0
+4,Fiji,5,5,0,0
+4,Guyana,5,4,1,0
+4,Syria,5,5,0,0
+4,Mali,4,4,0,0
+4,Cabo Verde,4,3,1,0
+4,Angola,4,4,0,0
+4,Guinea,4,4,0,0
+4,Congo (Brazzaville),4,4,0,0
+4,Holy See,4,4,0,0
+4,Central African Republic,3,3,0,0
+4,Mauritania,3,3,0,0
+4,Zimbabwe,3,2,1,0
+4,Sudan,3,2,1,0
+4,Nepal,3,2,0,1
+4,Gambia,3,2,1,0
+4,Saint Lucia,3,3,0,0
+4,Liberia,3,3,0,0
+4,Chad,3,3,0,0
+4,Guinea-Bissau,2,2,0,0
+4,Nicaragua,2,2,0,0
+4,Saint Kitts and Nevis,2,2,0,0
+4,Belize,2,2,0,0
+4,Bhutan,2,2,0,0
+4,Somalia,2,2,0,0
+4,Papua New Guinea,1,1,0,0
+4,Saint Vincent and the Grenadines,1,1,0,0
+4,Libya,1,1,0,0
+4,Timor-Leste,1,1,0,0
